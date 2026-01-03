@@ -54,7 +54,8 @@ Right now, I’m **most proficient in Arduino and ESP-based projects**, mainly h
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Windsurf-1E90FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Thonny-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/MIT_App_Inventor_logo.png" alt="MIT App Inventor" width="40" />
+  <img src="https://img.shields.io/badge/MIT%20App%20Inventor-8A2BE2?style=for-the-badge&logo=mit&logoColor=white" />
+
 </p>
 
 ---
