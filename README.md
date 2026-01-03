@@ -50,6 +50,8 @@ Right now, I’m **most proficient in Arduino and ESP-based projects**, mainly h
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime" />
+  <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fritzing-CC0000?style=for-the-badge&logo=none&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Windsurf-1E90FF?style=for-the-badge" />
