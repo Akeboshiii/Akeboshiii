@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ter
+# 👋 Hi, I'm Terrenze Longno
 
 🚀 Student | Aspiring Developer | Tech Learner  
 Currently learning software and web development.  
@@ -10,12 +10,12 @@ Right now, I’m **most proficient in Arduino and ESP-based projects**, mainly h
 
 ### 🌐 Web & Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,react,sass,php,jquery" />
+  <img src="https://skillicons.dev/icons?i=react,ts,sass,css,html,nodejs,express,php,jquery" />
 </p>
 
 ### 🗄️ Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,mariadb" />
 </p>
 
 ### ⚙️ DevOps & Version Control
@@ -49,11 +49,12 @@ Right now, I’m **most proficient in Arduino and ESP-based projects**, mainly h
 ## 🛠️ Software & Tools
 
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime" />
   <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Windsurf-1E90FF?style=for-the-badge" />
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime" />
   <img src="https://img.shields.io/badge/Thonny-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/MIT_App_Inventor_logo.png" alt="MIT App Inventor" width="40" />
 </p>
 
 ---
