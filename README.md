@@ -16,7 +16,7 @@ Right now, I’m **most proficient in Arduino and ESP-based projects**, mainly h
 
 ### 🌐 Web & Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,sass,css,html,nodejs,express,php,jquery" />
+  <img src="https://skillicons.dev/icons?i=react,ts,sass,css,html,js,nodejs,express,php,jquery" />
 </p>
 
 ### 🗄️ Databases
@@ -32,6 +32,7 @@ Right now, I’m **most proficient in Arduino and ESP-based projects**, mainly h
 ### 🖥️ Programming Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
 
