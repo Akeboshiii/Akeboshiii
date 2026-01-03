@@ -71,3 +71,5 @@ Right now, I’m **most proficient in Arduino and ESP-based projects**, mainly h
 ## 📈 Focus
 Learn fast. Build real things.  
 Improve every day.
+
+> basta maka-tuon lang, paldo na!
