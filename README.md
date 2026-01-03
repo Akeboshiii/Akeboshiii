@@ -8,7 +8,7 @@ Right now, I’m **most proficient in Arduino and ESP-based projects**, mainly h
 
 ## 📊 GitHub Overview
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akeboshiii&theme=github)
 
 ---
 
