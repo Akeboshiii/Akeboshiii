@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hi, I'm Ter
 
-<!--
-**Akeboshiii/Akeboshiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Student | Aspiring Developer | Tech Learner  
+Currently learning software and web development.  
+Right now, I’m **most proficient in Arduino and ESP-based projects**, mainly hardware, sensors, and basic IoT systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Currently Learning & Exploring
+
+### 🌐 Web & Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,react,sass,php,jquery" />
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### ⚙️ DevOps & Version Control
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel" />
+</p>
+
+### 🖥️ Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+</p>
+
+---
+
+## 🔌 Proficient In
+
+### Embedded Systems & Hardware
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+</p>
+
+- Arduino  
+- ESP32 / ESP8266  
+- Sensors, motors, displays  
+- Basic automation and IoT  
+
+---
+
+## 🛠️ Software & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windsurf-1E90FF?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime" />
+  <img src="https://img.shields.io/badge/Thonny-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
+
+## 📈 Focus
+Learn fast. Build real things.  
+Improve every day.
